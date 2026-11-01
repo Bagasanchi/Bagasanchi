@@ -17,10 +17,6 @@ currently messing around with python, algorithms, and whatever seems interesting
 - experimenting with game development
 - working on projects that i actually want to use
 
-### github stuff
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Bagasanchi&layout=compact&theme=github_dark&hide_border=true)
-
 ---
 
 <sub>probably debugging something right now.</sub>
